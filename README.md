@@ -1,1 +1,1 @@
-# Redux-Sample a clone on Coding Addict Redux Workflow
+# Redux-Sample, a clone from Coding Addict Redux Workflow
